@@ -29,6 +29,6 @@
 [case_study](https://github.com/susanna-susanna/dau-stpy/blob/main/stpy_8_case_study.ipynb)
 
 
-[Итоговая_работа_по_курсу_"Python_для_анализа_данных"](https://github.com/susanna-susanna/dau-stpy/blob/main/pydp_Итоговая_работа_по_курсу_%22Python_для_анализа_данных%22.ipynb)
+## [Итоговая_работа_по_курсу_"Python_для_анализа_данных"](https://github.com/susanna-susanna/dau-stpy/blob/main/pydp_Итоговая_работа_по_курсу_%22Python_для_анализа_данных%22.ipynb)
 
-[Итоговая аттестация профессии "Аналитик Данных"](https://github.com/susanna-susanna/dau-stpy/tree/main/pydp-diplome)
+# [Итоговая аттестация профессии "Аналитик Данных"](https://github.com/susanna-susanna/dau-stpy/tree/main/pydp-diplome)
